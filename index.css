@@ -1,7 +1,14 @@
+body {
+    background-color: yellow;
+}
 #text-color {
     color: blue;
 }
 
 .text-color {
     color: red;
+}
+
+.paraText {
+    color: black;
 }
